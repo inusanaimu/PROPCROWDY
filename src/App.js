@@ -1,5 +1,11 @@
+import NavBar from './components/navBar'
+
 function App() {
-  return <div> My react App </div>
+  return (
+    <div className=' text-center w-full'>
+      <NavBar />
+    </div>
+  )
 }
 
 export default App
