@@ -3,7 +3,7 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      tiem: ['Tiempos'],
+      tiem: ['Tiempos Headline', 'Addington CF', 'Anko'],
     },
     extend: {},
   },
